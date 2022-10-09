@@ -1,5 +1,4 @@
-## Hi there 👋
-My name is Bernardo. <br>
-I'm a CS and Graphic Design student. 🎓 <br>
-This is a page for my personal projects. <br>
-Here is how to reach me <BernardoMariga@protonmail.com>. 📧
+## Hi, I'm Bernardo. <br>
+Here's where I like to post personal projects and keep track of progress. <br>
+
+↪ Here is how to reach me <BernardoMariga@protonmail.com>  📧
